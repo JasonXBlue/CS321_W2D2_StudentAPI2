@@ -1,0 +1,16 @@
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/obj/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.csprojAssemblyReference.cache
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/obj/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.RazorAssemblyInfo.cache
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/obj/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.RazorAssemblyInfo.cs
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/obj/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.AssemblyInfoInputs.cache
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/obj/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.AssemblyInfo.cs
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/bin/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.deps.json
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/bin/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.runtimeconfig.json
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/bin/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.runtimeconfig.dev.json
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/bin/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.dll
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/bin/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.pdb
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/obj/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.RazorTargetAssemblyInfo.cache
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/obj/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.dll
+/Users/jasonblue/Desktop/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/CS321_W2D2_StudentAPI/obj/Debug/netcoreapp2.2/CS321_W2D2_StudentAPI.pdb
